@@ -19,7 +19,6 @@ function Airplane(name) {
     this.isFlying = false;
   };
   
-  
   /*
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
